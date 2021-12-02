@@ -14,6 +14,8 @@ This project is supported by the Center for Cellular Construction (ccc.ucsf.edu)
 	To detect and add sound to objects:
 		1. Open music_v1
 		2. Open GarageBand on Mac and select "Software Instrument". Select instrumentation. 
+##M6.mp4
+	example mp4 file
 
 
 
